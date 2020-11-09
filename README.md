@@ -20,3 +20,5 @@ CREATE TABLE  noms (
 
 
 show table;
+
+INSERT INTO noms(nom, prenom) VALUES("Dupont", "Jean");
