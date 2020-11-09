@@ -22,3 +22,5 @@ CREATE TABLE  noms (
 show table;
 
 INSERT INTO noms(nom, prenom) VALUES("djemoui", "badr");
+
+select * from noms;
