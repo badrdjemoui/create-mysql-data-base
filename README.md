@@ -21,4 +21,4 @@ CREATE TABLE  noms (
 
 show table;
 
-INSERT INTO noms(nom, prenom) VALUES("Dupont", "Jean");
+INSERT INTO noms(nom, prenom) VALUES("djemoui", "badr");
